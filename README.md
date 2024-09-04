@@ -8,3 +8,10 @@ HomePage{
 (https://github.com/user-attachments/assets/2bbbf788-04a9-4c7b-884b-8272d5cf0337)
 (https://github.com/user-attachments/assets/7067c006-4ceb-4e10-b90c-1035993eae10)
 (https://github.com/user-attachments/assets/6b763e60-f569-4a7a-822d-ac14bda2d343)
+}
+HospitalPage{
+(https://github.com/user-attachments/assets/9f829f22-34f2-463f-95de-e8a1db7cd79e)
+(https://github.com/user-attachments/assets/57f17268-dd10-45da-9dd0-a4ebf0f298eb)
+(https://github.com/user-attachments/assets/7dcb722d-4ffa-4282-96c0-c7ecf7563153)
+(https://github.com/user-attachments/assets/ed0abd99-17d6-4fb6-9f23-97ba019eb984)
+}
