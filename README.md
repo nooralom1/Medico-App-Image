@@ -25,8 +25,9 @@ DoctorPage{
 }
 
 
+
 DepartMentPage{
-(https://github.com/user-attachments/assets/11f88fa4-d0bd-4105-809d-e5f0b9451f0)
+(https://github.com/user-attachments/assets/36c2a8f8-442f-4d12-b568-112b60b930a5)
 (https://github.com/user-attachments/assets/1b00cce2-6b30-4c34-906b-3c4a1d25f918)
 (https://github.com/user-attachments/assets/96d6fd6b-df07-43dc-ba05-245505e5f28f)
 (https://github.com/user-attachments/assets/4f6fd4df-8e31-4897-b571-9f66aba17d80)
